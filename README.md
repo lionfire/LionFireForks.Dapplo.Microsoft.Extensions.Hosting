@@ -1,3 +1,13 @@
+# Fork Notice
+
+I think I have pretty much moved on from IHostBuilder.  Someone (@gszdev) made a PR to replace IHostBuilder with HostApplicationBuilder, but I don't know how long it will take for that to get merged.  If it does get merged, I will likely archive and stop using this fork.
+In the meantime, I plan to use this.
+
+- Original project: https://github.com/dapplo/Dapplo.Microsoft.Extensions.Hosting
+- PR I am waiting on: https://github.com/dapplo/Dapplo.Microsoft.Extensions.Hosting/pull/53
+
+Original README follows:
+
 # Dapplo.Microsoft.Extensions.Hosting
 
 [![Build Status](https://dev.azure.com/Dapplo/Dapplo.Microsoft.Extensions.Hosting/_apis/build/status/dapplo.Dapplo.Microsoft.Extensions.Hosting?branchName=master)](https://dev.azure.com/Dapplo/Dapplo.Microsoft.Extensions.Hosting/_build/latest?definitionId=6&branchName=master)
